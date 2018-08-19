@@ -1,0 +1,7 @@
+baseURL = "https://stefan.lapers.be/"
+languageCode = "en-us"
+title = "Stefan Lapers"
+theme = "hugo-paper"
+
+pygmentsCodefences = false
+disqusShortname = "slapers"
