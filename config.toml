@@ -1,7 +1,24 @@
 baseURL = "https://stefan.lapers.be/"
 languageCode = "en-us"
 title = "Stefan Lapers"
-theme = "hugo-paper"
+theme = "hyde-hyde"
 
-pygmentsCodefences = false
+highlightjs = false
+pygmentsCodefences = true
+pygmentsStyle = "friendly"
+
 disqusShortname = "slapers"
+googleAnalytics = "UA-70312468-1"
+
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+
+[params]
+  authorimage = "img/stefanlapers_small.png"
+
+[params.social]
+  github = "slapers"
+  twitter = "stefanlapers"
+  linkedin = "stefanlapers"
+  bitbucket = "slapers"
