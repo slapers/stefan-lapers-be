@@ -15,7 +15,7 @@ googleAnalytics = "UA-70312468-1"
   hrefTargetBlank = true
 
 [params]
-  authorimage = "img/stefanlapers_small.png"
+  authorimage = "/img/stefanlapers_xsmall.jpg"
 
 [params.social]
   github = "slapers"
